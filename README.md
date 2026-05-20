@@ -1,7 +1,7 @@
 #  Laboratory-Work-5-Activity
 https://drive.google.com/drive/folders/1uPfU2OZytqSSNGZuxLYKyg4O3FLJqVr_?usp=drive_link
 
-# KERAS
+# .keras
 https://drive.google.com/file/d/1B4RJ3LicycLfsLzXbIsPhsVAiwcsyFpW/view?usp=drive_link
 
 ##  PART 12: Performance Comparison Table
